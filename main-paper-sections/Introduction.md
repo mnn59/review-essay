@@ -12,3 +12,9 @@ Breast cancer death rates declined 40% from 1989 to 2016 among women. The progre
 American Cancer Society (https://www.cancer.org/)
 
 ## Second Paragraph:
+Annually, the American Cancer Society provides approximations for fresh cancer instances and fatalities within the United States. This data is drawn from central cancer registries that gather incidence information and from mortality data sourced from the National Center for Health Statistics. For the year 2023, it is projected that the United States will witness around 1,958,310 novel cases of cancer and 609,820 cancer-related deaths. Furthermore, we have created a comprehensive chart that breaks down these statistics based on cancer types and gender. Fig 1
+Cancer statistics, 2023 (https://doi.org/10.3322/caac.21763)
+| ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/female.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/males.png) |
+|----------|:-------------:|
+
+Fig 1. Top ten cancer types for projected new cases and fatalities by gender in the United States for 2023. The order is determined by modeled forecasts and might not align with the latest observed data.
