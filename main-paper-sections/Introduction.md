@@ -48,7 +48,7 @@ fig 2 . b . ultrasound
 fig 2 . c . MRI
 fig 2 . d . Thermography
 
-| ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/mammogram.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/ultrasound.png) | ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/MRI.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Thermology.png) |
+| ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Images/Mam.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Images/Ult.png) | ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Images/mri.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Images/th.png) |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |a|b|c|d|
 
