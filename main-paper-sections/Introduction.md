@@ -15,7 +15,8 @@ American Cancer Society (https://www.cancer.org/)
 Annually, the American Cancer Society provides approximations for fresh cancer instances and fatalities within the United States. This data is drawn from central cancer registries that gather incidence information and from mortality data sourced from the National Center for Health Statistics. For the year 2023, it is projected that the United States will witness around 1,958,310 novel cases of cancer and 609,820 cancer-related deaths. Furthermore, we have created a comprehensive chart that breaks down these statistics based on cancer types and gender. Fig 1
 Cancer statistics, 2023 (https://doi.org/10.3322/caac.21763)
 | ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/female.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/males.png) |
-|----------|:-------------:|
+|:----------:|:-------------:|
+
 
 Fig 1. Top ten cancer types for projected new cases and fatalities by gender in the United States for 2023. The order is determined by modeled forecasts and might not align with the latest observed data.
 
@@ -25,7 +26,8 @@ Fig 1. Top ten cancer types for projected new cases and fatalities by gender in 
 ## Forth Paragraph : 
 Various breast cancer screening methods employed in computer-aided diagnosis (CAD) systems encompass mammography, ultrasound, magnetic resonance imaging (MRI), and thermography. These imaging modalities have been extensively investigated in numerous scholarly articles and have exhibited favorable outcomes in the identification and assessment of breast cancer.Mammography stands as the prevailing and extensively employed imaging method in breast cancer screening. The integration of CAD systems has been undertaken to enhance the accuracy of breast cancer diagnosis based on screening mammograms.
 
-A review of the current state of the computer-aided diagnosis (CAD) systems for breast cancer diagnosis (https://doi.org/10.1515/biol-2022-0517) , Computer-Aided Detection for Breast Cancer Screening in Clinical Settings: Scoping Review (https://doi.org/10.2196/12660)
+
+The Role of Deep Learning in Advancing Breast Cancer Detection Using Different Imaging Modalities: A Systematic Review (https://doi.org/10.3390/cancers14215334) , Computer-Aided Detection for Breast Cancer Screening in Clinical Settings: Scoping Review (https://doi.org/10.2196/12660)
 
 Ultrasound imaging presents itself as another prevalent approach utilized in the detection of breast cancer. CAD systems have been harnessed to augment ultrasound imaging, encompassing diverse methodologies aimed at detecting, segmenting, and classifying breast cancer.
 
@@ -37,6 +39,22 @@ Computer-aided detection (CAD) for breast MRI: evaluation of efficacy at 3.0 T (
 
 Thermography emerges as a comparatively less prevalent imaging technique employed in breast cancer detection. Although not as extensively studied as other modalities, the realm of deep learning has also been extended to thermography, contributing to the endeavor of breast cancer detection.
 
-Thermography as a Breast Cancer Screening Technique: A Review Article (https://doi.org/10.7759/cureus.31251) , Infrared Imaging technology for breast cancer detection – Current status, protocols and new directions. (https://doi.org/10.1016/j.ijheatmasstransfer.2017.01.086)
+Thermography as a Breast Cancer Screening Technique: A Review Article (https://doi.org/10.7759/cureus.31251) , A Comparative Review of Thermography as a Breast Cancer Screening Technique (https://doi.org/10.1177/1534735408326171) , Observational Study to Evaluate the Clinical Efficacy of Thermalytix for Detecting Breast Cancer in Symptomatic and Asymptomatic Women (https://doi.org/10.1200/GO.20.00168)
 
 This article places its primary focus on the comprehensive exploration of mammograms, providing an in-depth analysis of this imaging technique. Subsequently, we delve into the realm of Computer-Aided Diagnosis (CAD) systems, particularly their application in conjunction with mammograms.
+
+fig 2 . a . mammo
+fig 2 . b . ultrasound
+fig 2 . c . MRI
+fig 2 . d . Thermography
+
+| ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/mammogram.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/ultrasound.png) | ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/MRI.png)  |  ![alt text](https://github.com/mnn59/review-essay/blob/main/main-paper-sections/Thermology.png) |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|a|b|c|d|
+
+Fig 2 . Illustrative Instances of Breast Cancer Documentation: Mammogram, Ultrasound, MRI Scan, and Thermography Image.
+
+a , b , c => The Role of Deep Learning in Advancing Breast Cancer Detection Using Different Imaging Modalities: A Systematic Review (https://doi.org/10.3390/cancers14215334)
+d => Observational Study to Evaluate the Clinical Efficacy of Thermalytix for Detecting Breast Cancer in Symptomatic and Asymptomatic Women (https://doi.org/10.1200/GO.20.00168)
+
+
