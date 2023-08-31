@@ -1,3 +1,5 @@
+# Name : breast cancer classification in mammography using artificial intelligence: A comprehensive review
+
 # Abstarct
 Breast cancer continues to be a common and threatening disease for women worldwide. Early diagnosis plays a key role in reducing risks and improving treatment outcomes. This comprehensive review article discusses the integration of artificial intelligence (AI) techniques in breast cancer detection, focusing on various automated systems developed using medical imaging methods. Leveraging deep learning models, numerous studies have utilized public datasets to predict breast cancer, employing performance metrics such as accuracy, precision, and recall for model comparison.
 This article emphasizes the importance of timely detection, given the significant impact of breast cancer on mortality rates. Traditional detection methods, often involving exposure to radioactive rays, underscore the significance of AI-based solutions in medical imaging. Through in-depth analysis of imaging techniques, this article identifies the pros and cons of employing deep learning in breast cancer detection, elucidating its application and efficacy.
