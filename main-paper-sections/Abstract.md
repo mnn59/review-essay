@@ -1,4 +1,10 @@
-# Name : breast cancer classification in mammography using artificial intelligence: A comprehensive review
+|Names|
+|:------:|
+|breast cancer classification in mammography using artificial intelligence: A comprehensive review|
+|Advances in Breast Cancer Classification through Artificial Intelligence: A Comprehensive Survey|
+|Comprehensive Analysis of Breast Cancer Classification Using Artificial Intelligence: A Comprehensive Review|
+|Exploring Breast Cancer Classification through Artificial Intelligence: A Comprehensive Review|
+|Comprehensive Assessment of Artificial Intelligence in Breast Cancer Classification: A Thorough Review|
 
 # Abstarct
 Breast cancer continues to be a common and threatening disease for women worldwide. Early diagnosis plays a key role in reducing risks and improving treatment outcomes. This comprehensive review article discusses the integration of artificial intelligence (AI) techniques in breast cancer detection, focusing on various automated systems developed using medical imaging methods. Leveraging deep learning models, numerous studies have utilized public datasets to predict breast cancer, employing performance metrics such as accuracy, precision, and recall for model comparison.
