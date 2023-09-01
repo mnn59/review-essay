@@ -22,6 +22,9 @@ Fig 1. Top ten cancer types for projected new cases and fatalities by gender in 
 
 ## Third Paragraph :
 
+BI-RADS (Breast Imaging Reporting and Data System) is a standardized system for interpreting and reporting breast imaging results, particularly mammograms. It categorizes findings into seven numbered categories to assess the likelihood of breast cancer, guiding healthcare providers in determining the next steps for patient evaluation and management. 
+Sickles, E.; d’Orsi, C.; Bassett, L.; Appleton, C.; Berg, W.; Burnside, E.; Feig, S.; Gavenonis, S.; Newell, M.; Trinh, M. Acr bi-rads® mammography. ACR BI-RADS® Atlas Breast Imaging Report. Data Syst. 2013, 5, 2013.
+
 
 ## Forth Paragraph : 
 Various breast cancer screening methods employed in computer-aided diagnosis (CAD) systems encompass mammography, ultrasound, magnetic resonance imaging (MRI), and thermography. These imaging modalities have been extensively investigated in numerous scholarly articles and have exhibited favorable outcomes in the identification and assessment of breast cancer.Mammography stands as the prevailing and extensively employed imaging method in breast cancer screening. The integration of CAD systems has been undertaken to enhance the accuracy of breast cancer diagnosis based on screening mammograms.
