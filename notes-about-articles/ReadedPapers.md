@@ -9,3 +9,19 @@
 |Convolutional neural networks for breast cancer detection in mammography A survey|https://doi.org/10.1016/j.compbiomed.2021.104248|Mahdi Niknejad|
 |Mammograms Classification A Review|https://doi.org/10.48550/arXiv.2203.03618|Mahdi Niknejad|
 |Transformers Improve Breast Cancer Diagnosis from Unregistered Multi-View Mammograms|https://doi.org/10.3390/diagnostics12071549|Mahdi Niknejad|
+|Diagnostic Accuracy of Machine Learning Models on Mammography in Breast Cancer Classification: A Meta-Analysis|https://doi.org/10.3390/diagnostics12071643|Mahdi Firouzbakht|
+|Deep Learning for Breast Cancer Diagnosis from Mammograms—A Comparative Study|http://dx.doi.org/10.3390/jimaging5030037|Mahdi Firouzbakht|
+|Transformers Improve Breast Cancer Diagnosis from Unregistered Multi-View Mammograms|https://doi.org/10.3390/diagnostics12071549|Mahdi Firouzbakht|
+|Cancer detection for small-size and__ambiguous tumors based on semantic FPN and transformer|https://doi.org/10.1371/journal.pone.0275194|Mahdi Firouzbakht|
+|Convolutional neural networks for breast cancer detection in mammography: A survey|https://doi.org/10.1016/j.compbiomed.2021.104248|Mahdi Firouzbakht|
+|BTS-ST_ Swin Transformer Network for Segmentation and Classification of Multimodality Breast cancer images | https://doi.org/10.1016/j.knosys.2023.110393|Mahdi Firouzbakht|
+|Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers |https://doi.org/10.1007/978-3-030-87199-4_10|Mahdi Firouzbakht|
+|Mammogram Screening for Breast Density Classification using a soft voting ensemble of Swin Transformers and ConvNext models|http://dx.doi.org/10.1109/SITIS57111.2022.00063|Mahdi Firouzbakht|
+|Breast Cancer Detection Using GAN for Limited Labeled Dataset|https://doi.org/10.1109/CICN49253.2020.9242551|Mahdi Firouzbakht|
+|Mammography Image-Based Diagnosis of Breast Cancer Using Machine Learning: A Pilot Study|https://doi.org/10.3390/s22010203|Mahdi Firouzbakht|
+
+
+
+
+
+
