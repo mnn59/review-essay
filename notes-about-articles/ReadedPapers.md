@@ -23,7 +23,7 @@
 |Deep convolutional neural network and emotional learning based breast_cancer detection using digital mammography|https://doi.org/10.1016/j.compbiomed.2021.104318|Mahdi Niknejad|
 |Connected-UNets a deep learning architecture for breast mass segmentation|https://doi.org/10.1038/s41523-021-00358-x|Mahdi Niknejad|
 |Deep learning approach for breast cancer diagnosis|https://doi.org/10.1145/3328833.3328867|Mahdi Niknejad|
-
+|Deep learning for mass detection in Full Field Digital Mammograms|https://doi.org/10.1016/j.compbiomed.2020.103774|Mahdi Niknejad|
 
 
 
