@@ -19,6 +19,10 @@
 |Mammogram Screening for Breast Density Classification using a soft voting ensemble of Swin Transformers and ConvNext models|http://dx.doi.org/10.1109/SITIS57111.2022.00063|Mahdi Firouzbakht|
 |Breast Cancer Detection Using GAN for Limited Labeled Dataset|https://doi.org/10.1109/CICN49253.2020.9242551|Mahdi Firouzbakht|
 |Mammography Image-Based Diagnosis of Breast Cancer Using Machine Learning: A Pilot Study|https://doi.org/10.3390/s22010203|Mahdi Firouzbakht|
+|CoroNet: Deep Neural Network-Based End-to-End Training for Breast Cancer Diagnosis|https://doi.org/10.3390/app12147080|Mahdi Niknejad|
+|Deep convolutional neural network and emotional learning based breast_cancer detection using digital mammography|https://doi.org/10.1016/j.compbiomed.2021.104318|Mahdi Niknejad|
+|Connected-UNets a deep learning architecture for breast mass segmentation|https://doi.org/10.1038/s41523-021-00358-x|Mahdi Niknejad|
+|Deep learning approach for breast cancer diagnosis|https://doi.org/10.1145/3328833.3328867|Mahdi Niknejad|
 
 
 
