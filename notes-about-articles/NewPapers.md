@@ -14,3 +14,15 @@
 |High accuracy hybrid CNN classifiers for breast cancer detection using mammogram and ultrasound datasets|https://doi.org/10.1016/j.bspc.2022.104292|⭐|
 |Enhancing Ductal Carcinoma Classification Using Transfer Learning with 3D U-Net Models in Breast Cancer Imaging|https://doi.org/10.3390/app13074255|⭐|
 |Efficient Breast Cancer Diagnosis from Complex Mammographic Images Using Deep Convolutional Neural Network|https://doi.org/10.1155/2023/7717712|⭐|
+|-|-|-|
+|-|-|-|
+|A framework for breast cancer classification using Multi-DCNNs|https://doi.org/10.1016/j.compbiomed.2021.104245|⭐|
+|Mammographic Classification Based on XGBoost and DCNN With Multi Features|https://doi.org/10.1109/ACCESS.2020.2986546|⭐|
+|DE-Ada*: A novel model for breast mass classification using cross-modal pathological semantic mining and organic integration of multi-feature fusions|http://dx.doi.org/10.1016/j.ins.2020.05.080|⭐|
+|Utilization of DenseNet201 for diagnosis of breast abnormality|https://doi.org/10.1007/s00138-019-01042-8|⭐|
+|-|-|-|
+|Deep learning and optimization algorithms for automatic breast cancer detection|https://doi.org/10.1002/ima.22400|⭐|
+|Convolutional Neural Network Improvement for Breast Cancer Classification|https://doi.org/10.1016/j.eswa.2018.11.008|⭐|
+|Unsupervised Method to Localize Masses in Mammograms|https://doi.org/10.1109/ACCESS.2021.3094768|⭐|
+|BC2NetRF: Breast Cancer Classification from Mammogram Images Using Enhanced Deep Learning Features and Equilibrium-Jaya Controlled Regula Falsi-Based Features Selection |https://doi.org/10.3390/diagnostics13071238|⭐|
+|-|-|-|
