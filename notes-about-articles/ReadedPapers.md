@@ -24,6 +24,20 @@
 |Connected-UNets a deep learning architecture for breast mass segmentation|https://doi.org/10.1038/s41523-021-00358-x|Mahdi Niknejad|
 |Deep learning approach for breast cancer diagnosis|https://doi.org/10.1145/3328833.3328867|Mahdi Niknejad|
 |Deep learning for mass detection in Full Field Digital Mammograms|https://doi.org/10.1016/j.compbiomed.2020.103774|Mahdi Niknejad|
+|Breast cancer detection and classification in mammogram using a three-stage deep learning framework based on PAA algorithm|https://doi.org/10.1016/j.artmed.2022.102419|Mahdi Niknejad|
+|Information bottleneck-based interpretable multitask network for breast cancer classification and segmentation|https://doi.org/10.1016/j.media.2022.102687|Mahdi Niknejad|
+|Multi-Scale_Convolutional_Neural_Networks_for_Classification_of_Digital_Mammograms_With_Breast_Calcifications | https://doi.org/10.1109/ACCESS.2021.3104627|Mahdi Niknejad|
+|A generative adversarial network‑based abnormality detection using only normal images for model training with application to digital breast tomosynthesis|https://doi.org/10.1038/s41598-021-89626-1|Mahdi Niknejad|
+|Unsupervised anomaly detection with generative adversarial networks in mammography|https://doi.org/10.1038/s41598-023-29521-z|Mahdi Niknejad|
+|Improving mammography lesion classification by optimal fusion of handcrafted and deep transfer learning features|https://doi.org/10.1088/1361-6560/ac5297|Mahdi Niknejad|
+|High accuracy hybrid CNN classifiers for breast cancer detection using mammogram and ultrasound datasets|https://doi.org/10.1016/j.bspc.2022.104292|Mahdi Niknejad|
+|Enhancing Ductal Carcinoma Classification Using Transfer Learning with 3D U-Net Models in Breast Cancer Imaging|https://doi.org/10.3390/app13074255|Mahdi Niknejad|
+|Efficient Breast Cancer Diagnosis from Complex Mammographic Images Using Deep Convolutional Neural Network|https://doi.org/10.1155/2023/7717712|Mahdi Niknejad|
+|Mammographic Classification Based on XGBoost and DCNN With Multi Features|https://doi.org/10.1109/ACCESS.2020.2986546|Mahdi Niknejad|
+|Utilization of DenseNet201 for diagnosis of breast abnormality|https://doi.org/10.1007/s00138-019-01042-8|Mahdi Niknejad|
+|Deep learning and optimization algorithms for automatic breast cancer detection|https://doi.org/10.1002/ima.22400|Mahdi Niknejad|
+|Unsupervised Method to Localize Masses in Mammograms|https://doi.org/10.1109/ACCESS.2021.3094768|Mahdi Niknejad|
+
 
 
 
