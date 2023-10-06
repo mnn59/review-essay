@@ -37,6 +37,8 @@
 |Utilization of DenseNet201 for diagnosis of breast abnormality|https://doi.org/10.1007/s00138-019-01042-8|Mahdi Niknejad|
 |Deep learning and optimization algorithms for automatic breast cancer detection|https://doi.org/10.1002/ima.22400|Mahdi Niknejad|
 |Unsupervised Method to Localize Masses in Mammograms|https://doi.org/10.1109/ACCESS.2021.3094768|Mahdi Niknejad|
+|CADNet157 model: fine-tuned ResNet152 model for breast cancer diagnosis from mammography images| - |Mahdi Niknejad|
+|A framework for breast cancer classification using Multi-DCNNs|https://doi.org/10.1016/j.compbiomed.2021.104245|Mahdi Niknejad|
 
 
 
