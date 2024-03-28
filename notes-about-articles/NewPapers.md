@@ -1,7 +1,7 @@
 |Name|doi|Assign|
 |:--:|:--:|:--:|
 |Deep learning for computer-aided abnormalities classification in digital mammogram: A data-centric perspective|https://doi.org/10.1067/j.cpradiol.2024.01.007||
-|Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning|Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning||
+|Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning|https://doi.org/10.1016/j.imavis.2024.104987||
 |A novel breast cancer detection architecture based on a CNN-CBR system for mammogram classification|https://doi.org/10.1016/j.compbiomed.2023.107133||
 |Hybrid ML-MDKL feature subset selection and classification technique accompanied with rat swarm optimizer to classify the multidimensional breast cancer mammogram image|https://doi.org/10.1016/j.ijleo.2023.171574||
 |Enhanced mammogram classification with convolutional neural network: An improved algorithm for automated breast cancer detection|https://doi.org/10.1016/j.measurement.2023.113551||
