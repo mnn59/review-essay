@@ -36,12 +36,12 @@
 |Mammo-Light: A lightweight convolutional neural network for diagnosing breast cancer from mammography images|https://doi.org/10.1016/j.bspc.2024.106279||
 |Deep Learning-Based Metaheuristic Weighted K-Nearest Neighbor Algorithm for the Severity Classification of Breast Cancer|https://doi.org/10.1016/j.irbm.2022.100749||
 |Breast cancer diagnosis model using stacked autoencoder with particle swarm optimization|https://doi.org/10.1016/j.asej.2024.102734||
-|Non–timely referral of women aged 40 to 69 to preventive medicine for breast cancer detection and its association with the BI-RADS classification|https://doi.org/10.1016/j.pmedr.2023.102369||
-|A multi-task fusion model based on a residual–Multi-layer perceptron network for mammographic breast cancer screening|https://doi.org/10.1016/j.cmpb.2024.108101||
-|Automated breast tumor ultrasound image segmentation with hybrid UNet and classification using fine-tuned CNN model|https://doi.org/10.1016/j.heliyon.2023.e21369||
-|Breast cancer diagnosis based on hybrid SqueezeNet and improved chef-based optimizer|https://doi.org/10.1016/j.eswa.2023.121470||
-|Deep Cross-Training: An Approach to Improve Deep Neural Network Classification on Mammographic Images|https://doi.org/10.1016/j.eswa.2023.122142||
-|Breast cancer detection and diagnosis using hybrid deep learning architecture|https://doi.org/10.1016/j.bspc.2022.104558||
+|Non–timely referral of women aged 40 to 69 to preventive medicine for breast cancer detection and its association with the BI-RADS classification|https://doi.org/10.1016/j.pmedr.2023.102369|⭐|
+|A multi-task fusion model based on a residual–Multi-layer perceptron network for mammographic breast cancer screening|https://doi.org/10.1016/j.cmpb.2024.108101|⭐|
+|Automated breast tumor ultrasound image segmentation with hybrid UNet and classification using fine-tuned CNN model|https://doi.org/10.1016/j.heliyon.2023.e21369|⭐|
+|Breast cancer diagnosis based on hybrid SqueezeNet and improved chef-based optimizer|https://doi.org/10.1016/j.eswa.2023.121470|⭐|
+|Deep Cross-Training: An Approach to Improve Deep Neural Network Classification on Mammographic Images|https://doi.org/10.1016/j.eswa.2023.122142|⭐|
+|Breast cancer detection and diagnosis using hybrid deep learning architecture|https://doi.org/10.1016/j.bspc.2022.104558|⭐|
 
 
 
