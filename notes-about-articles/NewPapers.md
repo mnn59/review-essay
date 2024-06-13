@@ -32,10 +32,10 @@
 |Difference-of-Gaussian generative adversarial network for segmenting breast arterial calcifications in mammograms|https://doi.org/10.1016/j.eswa.2023.119506||
 |Mammography and ultrasound based dual modality classification of breast cancer using a hybrid deep learning approach|https://doi.org/10.1016/j.bspc.2023.104919||
 |A Multi-group similarity-decoding-based method for deep model ensembling applied in the microcalcification classification on digital mammograms|https://doi.org/10.1016/j.bspc.2023.105896||
-|USMLP: U-shaped Sparse-MLP network for mass segmentation in mammograms|https://doi.org/10.1016/j.imavis.2023.104761||
-|Mammo-Light: A lightweight convolutional neural network for diagnosing breast cancer from mammography images|https://doi.org/10.1016/j.bspc.2024.106279||
-|Deep Learning-Based Metaheuristic Weighted K-Nearest Neighbor Algorithm for the Severity Classification of Breast Cancer|https://doi.org/10.1016/j.irbm.2022.100749||
-|Breast cancer diagnosis model using stacked autoencoder with particle swarm optimization|https://doi.org/10.1016/j.asej.2024.102734||
+|USMLP: U-shaped Sparse-MLP network for mass segmentation in mammograms|https://doi.org/10.1016/j.imavis.2023.104761|⭐|
+|Mammo-Light: A lightweight convolutional neural network for diagnosing breast cancer from mammography images|https://doi.org/10.1016/j.bspc.2024.106279|⭐|
+|Deep Learning-Based Metaheuristic Weighted K-Nearest Neighbor Algorithm for the Severity Classification of Breast Cancer|https://doi.org/10.1016/j.irbm.2022.100749|⭐|
+|Breast cancer diagnosis model using stacked autoencoder with particle swarm optimization|https://doi.org/10.1016/j.asej.2024.102734|⭐|
 |Non–timely referral of women aged 40 to 69 to preventive medicine for breast cancer detection and its association with the BI-RADS classification|https://doi.org/10.1016/j.pmedr.2023.102369|⭐|
 |A multi-task fusion model based on a residual–Multi-layer perceptron network for mammographic breast cancer screening|https://doi.org/10.1016/j.cmpb.2024.108101|⭐|
 |Automated breast tumor ultrasound image segmentation with hybrid UNet and classification using fine-tuned CNN model|https://doi.org/10.1016/j.heliyon.2023.e21369|⭐|
