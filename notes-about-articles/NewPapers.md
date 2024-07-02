@@ -1,9 +1,9 @@
 |Name|doi|Assign|
 |:--:|:--:|:--:|
-|Deep learning for computer-aided abnormalities classification in digital mammogram: A data-centric perspective|https://doi.org/10.1067/j.cpradiol.2024.01.007||
-|Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning|https://doi.org/10.1016/j.imavis.2024.104987||
-|A novel breast cancer detection architecture based on a CNN-CBR system for mammogram classification|https://doi.org/10.1016/j.compbiomed.2023.107133||
-|Hybrid ML-MDKL feature subset selection and classification technique accompanied with rat swarm optimizer to classify the multidimensional breast cancer mammogram image|https://doi.org/10.1016/j.ijleo.2023.171574||
+|Deep learning for computer-aided abnormalities classification in digital mammogram: A data-centric perspective|https://doi.org/10.1067/j.cpradiol.2024.01.007|⭐|
+|Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning|https://doi.org/10.1016/j.imavis.2024.104987|⭐|
+|A novel breast cancer detection architecture based on a CNN-CBR system for mammogram classification|https://doi.org/10.1016/j.compbiomed.2023.107133|⭐|
+|Hybrid ML-MDKL feature subset selection and classification technique accompanied with rat swarm optimizer to classify the multidimensional breast cancer mammogram image|https://doi.org/10.1016/j.ijleo.2023.171574|⭐|
 |Enhanced mammogram classification with convolutional neural network: An improved algorithm for automated breast cancer detection|https://doi.org/10.1016/j.measurement.2023.113551||
 |SRMADNet: Swin ResUnet3+-based mammogram image segmentation and heuristic adopted multi-scale attention based DenseNet for breast cancer detection|https://doi.org/10.1016/j.bspc.2023.105515||
 |CNN-FS-IFuzzy: A new enhanced learning model enabled by adaptive tumor segmentation for breast cancer diagnosis using 3D mammogram images|https://doi.org/10.1016/j.knosys.2024.111443||
@@ -26,12 +26,12 @@
 |Reducing ' probably benign ' assessments in normal mammograms: The role of radiologist experience|https://doi.org/10.1016/j.ejro.2023.100498||
 |CalAttnMix: An instance-attention based data augmentation method for calcification detection in mammograms|https://doi.org/10.1016/j.bspc.2023.105871||
 |Integration of Global and Local Descriptors for Mass Characterization in Mammograms|https://doi.org/10.1016/j.procs.2023.01.022||
-|Optimized hyperbolic tangent function-based contrast-enhanced mammograms for breast mass detection|https://doi.org/10.1016/j.eswa.2022.118994||
-|Use of Full-quality DICOM Images Compared to Minimally Compressed Mammograms in JPEG Format for Radiology Training: A Study From Radiologist and Radiographer Perspectives|https://doi.org/10.1016/j.acra.2022.11.012||
-|CNN-Wavelet scattering textural feature fusion for classifying breast tissue in mammograms|https://doi.org/10.1016/j.bspc.2023.104683||
-|Difference-of-Gaussian generative adversarial network for segmenting breast arterial calcifications in mammograms|https://doi.org/10.1016/j.eswa.2023.119506||
-|Mammography and ultrasound based dual modality classification of breast cancer using a hybrid deep learning approach|https://doi.org/10.1016/j.bspc.2023.104919||
-|A Multi-group similarity-decoding-based method for deep model ensembling applied in the microcalcification classification on digital mammograms|https://doi.org/10.1016/j.bspc.2023.105896||
+|Optimized hyperbolic tangent function-based contrast-enhanced mammograms for breast mass detection|https://doi.org/10.1016/j.eswa.2022.118994|⭐|
+|Use of Full-quality DICOM Images Compared to Minimally Compressed Mammograms in JPEG Format for Radiology Training: A Study From Radiologist and Radiographer Perspectives|https://doi.org/10.1016/j.acra.2022.11.012|⭐|
+|CNN-Wavelet scattering textural feature fusion for classifying breast tissue in mammograms|https://doi.org/10.1016/j.bspc.2023.104683|⭐|
+|Difference-of-Gaussian generative adversarial network for segmenting breast arterial calcifications in mammograms|https://doi.org/10.1016/j.eswa.2023.119506|⭐|
+|Mammography and ultrasound based dual modality classification of breast cancer using a hybrid deep learning approach|https://doi.org/10.1016/j.bspc.2023.104919|⭐|
+|A Multi-group similarity-decoding-based method for deep model ensembling applied in the microcalcification classification on digital mammograms|https://doi.org/10.1016/j.bspc.2023.105896|⭐|
 |USMLP: U-shaped Sparse-MLP network for mass segmentation in mammograms|https://doi.org/10.1016/j.imavis.2023.104761|⭐|
 |Mammo-Light: A lightweight convolutional neural network for diagnosing breast cancer from mammography images|https://doi.org/10.1016/j.bspc.2024.106279|⭐|
 |Deep Learning-Based Metaheuristic Weighted K-Nearest Neighbor Algorithm for the Severity Classification of Breast Cancer|https://doi.org/10.1016/j.irbm.2022.100749|⭐|
