@@ -4,13 +4,13 @@
 |Integration of ultrasound and mammogram for multimodal classification of breast cancer using hybrid residual neural network and machine learning|https://doi.org/10.1016/j.imavis.2024.104987|⭐|
 |A novel breast cancer detection architecture based on a CNN-CBR system for mammogram classification|https://doi.org/10.1016/j.compbiomed.2023.107133|⭐|
 |Hybrid ML-MDKL feature subset selection and classification technique accompanied with rat swarm optimizer to classify the multidimensional breast cancer mammogram image|https://doi.org/10.1016/j.ijleo.2023.171574|⭐|
-|Enhanced mammogram classification with convolutional neural network: An improved algorithm for automated breast cancer detection|https://doi.org/10.1016/j.measurement.2023.113551||
-|SRMADNet: Swin ResUnet3+-based mammogram image segmentation and heuristic adopted multi-scale attention based DenseNet for breast cancer detection|https://doi.org/10.1016/j.bspc.2023.105515||
-|CNN-FS-IFuzzy: A new enhanced learning model enabled by adaptive tumor segmentation for breast cancer diagnosis using 3D mammogram images|https://doi.org/10.1016/j.knosys.2024.111443||
-|Neural network model based on global and local features for multi-view mammogram classification|https://doi.org/10.1016/j.neucom.2023.03.028||
-|An Adaptive Fuzzy C-Means segmentation and deep learning model for efficient mammogram classification using VGG-Net|https://doi.org/10.1016/j.bspc.2023.105617||
-|MOB-CBAM: A dual-channel attention-based deep learning generalizable model for breast cancer molecular subtypes prediction using mammograms|https://doi.org/10.1016/j.cmpb.2024.108121||
-|FuzzyDeepNets based feature extraction for classification of mammograms|https://doi.org/10.1016/j.ibmed.2023.100117||
+|Enhanced mammogram classification with convolutional neural network: An improved algorithm for automated breast cancer detection|https://doi.org/10.1016/j.measurement.2023.113551|⭐|
+|SRMADNet: Swin ResUnet3+-based mammogram image segmentation and heuristic adopted multi-scale attention based DenseNet for breast cancer detection|https://doi.org/10.1016/j.bspc.2023.105515|⭐|
+|CNN-FS-IFuzzy: A new enhanced learning model enabled by adaptive tumor segmentation for breast cancer diagnosis using 3D mammogram images|https://doi.org/10.1016/j.knosys.2024.111443|⭐|
+|Neural network model based on global and local features for multi-view mammogram classification|https://doi.org/10.1016/j.neucom.2023.03.028|⭐|
+|An Adaptive Fuzzy C-Means segmentation and deep learning model for efficient mammogram classification using VGG-Net|https://doi.org/10.1016/j.bspc.2023.105617|⭐|
+|MOB-CBAM: A dual-channel attention-based deep learning generalizable model for breast cancer molecular subtypes prediction using mammograms|https://doi.org/10.1016/j.cmpb.2024.108121|⭐|
+|FuzzyDeepNets based feature extraction for classification of mammograms|https://doi.org/10.1016/j.ibmed.2023.100117|⭐|
 |An efficient deep learning scheme to detect breast cancer using mammogram and ultrasound breast images|https://doi.org/10.1016/j.bspc.2023.105377||
 |Mass segmentation and classification from film mammograms using cascaded deep transfer learning|https://doi.org/10.1016/j.bspc.2023.104819||
 |Prior-guided generative adversarial network for mammogram synthesis|https://doi.org/10.1016/j.bspc.2023.105456||
