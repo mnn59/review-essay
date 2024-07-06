@@ -11,11 +11,11 @@
 |An Adaptive Fuzzy C-Means segmentation and deep learning model for efficient mammogram classification using VGG-Net|https://doi.org/10.1016/j.bspc.2023.105617|⭐|
 |MOB-CBAM: A dual-channel attention-based deep learning generalizable model for breast cancer molecular subtypes prediction using mammograms|https://doi.org/10.1016/j.cmpb.2024.108121|⭐|
 |FuzzyDeepNets based feature extraction for classification of mammograms|https://doi.org/10.1016/j.ibmed.2023.100117|⭐|
-|An efficient deep learning scheme to detect breast cancer using mammogram and ultrasound breast images|https://doi.org/10.1016/j.bspc.2023.105377||
-|Mass segmentation and classification from film mammograms using cascaded deep transfer learning|https://doi.org/10.1016/j.bspc.2023.104819||
-|Prior-guided generative adversarial network for mammogram synthesis|https://doi.org/10.1016/j.bspc.2023.105456||
-|DeepMiCa: Automatic segmentation and classification of breast MIcroCAlcifications from mammograms|https://doi.org/10.1016/j.cmpb.2023.107483||
-|Detection and classification of microcalcifications in mammograms images using difference filter and Yolov4 deep learning model|https://doi.org/10.1016/j.bspc.2022.104360||
+|An efficient deep learning scheme to detect breast cancer using mammogram and ultrasound breast images|https://doi.org/10.1016/j.bspc.2023.105377|⭐|
+|Mass segmentation and classification from film mammograms using cascaded deep transfer learning|https://doi.org/10.1016/j.bspc.2023.104819|⭐|
+|Prior-guided generative adversarial network for mammogram synthesis|https://doi.org/10.1016/j.bspc.2023.105456|⭐|
+|DeepMiCa: Automatic segmentation and classification of breast MIcroCAlcifications from mammograms|https://doi.org/10.1016/j.cmpb.2023.107483|⭐|
+|Detection and classification of microcalcifications in mammograms images using difference filter and Yolov4 deep learning model|https://doi.org/10.1016/j.bspc.2022.104360|⭐|
 |Unsupervised feature correlation model to predict breast abnormal variation maps in longitudinal mammograms|https://doi.org/10.1016/j.compmedimag.2024.102341||
 |Quantitative evaluation of Saliency-Based Explainable artificial intelligence (XAI) methods in Deep Learning-Based mammogram analysis|https://doi.org/10.1016/j.ejrad.2024.111356||
 |High accuracy hybrid CNN classifiers for breast cancer detection using mammogram and ultrasound datasets|https://doi.org/10.1016/j.bspc.2022.104292||
